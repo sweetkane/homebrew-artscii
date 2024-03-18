@@ -1,2 +1,5 @@
 # homebrew-tap
-Homebrew repo for https://github.com/sweetkane/artscii
+Kane Sweet's Homebrew Tap
+
+Formulae:
+- https://github.com/sweetkane/artscii
