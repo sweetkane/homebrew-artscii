@@ -4,7 +4,7 @@ class Artscii < Formula
   desc "This tool uses AI to generate ascii art from a given prompt."
   homepage "https://github.com/sweetkane/artscii"
   url "https://github.com/sweetkane/artscii/archive/refs/tags/v0.0.1.tar.gz"
-  sha256 "07e543ea008d29212697b985fc8cbf4fd989f09a1422ef79bcfd558f0a2617f3"
+  sha256 "65ad84958347befc741afc9a118e5601ae24dfd032eef07cb5fd602884df5b3d"
   license "Apache-2.0"
 
   depends_on "TheZoraiz/ascii-image-converter/ascii-image-converter"
@@ -14,7 +14,7 @@ class Artscii < Formula
     url "https://files.pythonhosted.org/packages/37/f7/2b1b0ec44fdc30a3d31dfebe52226be9ddc40cd6c0f34ffc8923ba423b69/certifi-2022.12.7.tar.gz"
     sha256 "35824b4c3a97115964b408844d64aa14db1cc518f6562e8d7261699d1350a9e3"
   end
-  
+
   resource "charset-normalizer" do
     url "https://files.pythonhosted.org/packages/96/d7/1675d9089a1f4677df5eb29c3f8b064aa1e70c1251a0a8a127803158942d/charset-normalizer-3.0.1.tar.gz"
     sha256 "ebea339af930f8ca5d7a699b921106c6e29c617fe9606fa7baa043c1cdae326f"
