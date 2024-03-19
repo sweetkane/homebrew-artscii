@@ -1,14 +1,5 @@
-# homebrew-artscii
-Homebrew repo for https://github.com/sweetkane/artscii
+# homebrew-tap
+Kane Sweet's Homebrew Tap
 
-To install artscii with Homebrew, run:
-```
-git clone https://github.com/sweetkane/homebrew-artscii.git && \
-  brew install --build-from-source homebrew-artscii/artscii.rb && \
-  rm -rf homebrew-artscii
-```
-
-Test your installation with:
-```
-artscii -h
-```
+Formulae:
+- https://github.com/sweetkane/artscii
