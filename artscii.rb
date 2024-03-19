@@ -4,7 +4,7 @@ class Artscii < Formula
   desc "This tool uses AI to generate ascii art from a given prompt."
   homepage "https://github.com/sweetkane/artscii"
   url "https://github.com/sweetkane/artscii/archive/refs/tags/v0.0.1.tar.gz"
-  sha256 "65ad84958347befc741afc9a118e5601ae24dfd032eef07cb5fd602884df5b3d"
+  sha256 "c52a73c8a15560fcd77a5c1dfe6b57d3338f7ade97f7b7be7945b5e1e75e2c6f"
   license "Apache-2.0"
 
   depends_on "TheZoraiz/ascii-image-converter/ascii-image-converter"
